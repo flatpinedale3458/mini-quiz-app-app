@@ -1,2 +1,9 @@
-# mini-quiz-app-app
-A simple quiz app project
+# Quiz App
+
+A simple quiz app project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
